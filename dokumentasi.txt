@@ -1,0 +1,7 @@
+Tugas UTS dan UAS
+Pengolahan Citra Digital
+Nama Kelompok :
+1. Romario Lendo(19021106062)
+2. Monalisa Runtulalo(19021106034)
+
+Untuk menjalankan masing-masing file tersebut, buka file "TugasUts.m" atau "TugasUas.m" kemudian run/f5 untuk menjalankan file yang dipilih
